@@ -1,0 +1,10 @@
+C:\Users\herna\Desktop\Clase_personaV3\bin\Debug\Clase_personaV3.exe.config
+C:\Users\herna\Desktop\Clase_personaV3\bin\Debug\Clase_personaV3.exe
+C:\Users\herna\Desktop\Clase_personaV3\bin\Debug\Clase_personaV3.pdb
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.csproj.AssemblyReference.cache
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.Form1.resources
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.Properties.Resources.resources
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.csproj.GenerateResource.cache
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.exe
+C:\Users\herna\Desktop\Clase_personaV3\obj\Debug\Clase_personaV3.pdb
